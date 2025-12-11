@@ -3,3 +3,4 @@ E-Commerce Website | MERN Stack (MongoDB, Express.js, React, Node.js)
 – Improved page load speed by 35through lazy component loading. 
 – Built dynamic product listing with real-time filtering/search,enhancing user engagement and navigation efficiency.
 
+
